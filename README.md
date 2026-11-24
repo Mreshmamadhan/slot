@@ -1,5 +1,5 @@
 # Ex04 Time Table
-## Date:17/11/2026
+## Date:24/11/2026
 
 ## AIM
 To write a html webpage page to display your slot timetable.
@@ -158,9 +158,8 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/40614203-0c5f-4afb-b227-de20da20b746" />
 
-
+![alt text](image-1.png)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
