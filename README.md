@@ -30,18 +30,16 @@ Execute the program using runserver command.
 ```
 <html>
 <head>
-    <title>Experiment 4</title>
+    <title>Experiment-4 Time Table </title>
 </head>
 <body>
-<center>
     <img src="logo.png" width="800" height="150">
-</center>
-</body>
+
 <h1 align="center">
     SLOT TIME TABLE - RESHMA (26018352)
 </h1>
 
-<table border="2" cellpadding="10" cellspacing="1" align="center" bordercolor="black" width="800" height="150">
+<table border="2" cellpadding="10" cellspacing="1" align="center" width="600" height="100">
 
     <tr bgcolor="Orange" align="center">
         <th>Day/Time</th>
@@ -102,14 +100,10 @@ Execute the program using runserver command.
 </table>
 
 <h2> 
-
-
-
-
 </h2>
 
 
-<table border="2" cellpadding="10" cellspacing="3" align="center" bordercolor="black" width="800" height="150">
+<table border="2" cellpadding="10" cellspacing="3" align="center"  width="650" height="100">
     <tr align="center">
         <th>S.No.</th>
         <th>Subject Code</th>
@@ -164,7 +158,8 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![alt text](image.png)
+![alt text](<Screenshot (38).png>)
+
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
